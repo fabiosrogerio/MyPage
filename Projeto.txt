@@ -1,0 +1,18 @@
+Projeto
+
+1 - Título;
+2 - Links:
+    - Home;
+    - Quem somos;
+    - Produtos;
+    - Contatos.
+2 - Imagem da empresa;
+3 - 3 Produtos em destaque com o preço e a descrição;
+4 - Contatos;
+5 - Localização.
+
+
+6 - Quem somos - Página com a descrição da loja;
+7 - Produtos - Tabela complexa com os 6 produtos;
+8 - Contatos - Contatos;
+9 - Criar as 6 páginas com a descrição dos produtos.

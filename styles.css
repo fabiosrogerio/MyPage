@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /*color: red;*/
+    /*color: #a6a6;*/
+    color: rgb(10, 10, 9);
+    /*color: rgba(2, 76, 110, 1);*/
+
+    
+    
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+
+    /*background-image: url(./Image/sky.jpg);
+    background-position: right;
+    background-repeat: no-repeat;*/
+
+
+    /*background-size: cover;
+    background: url(./Image/sky.jpg) no-repeat right;*/
+    background: linear-gradient(90deg, #00416A, #E4E5E6);
+}
+
+.container{
+
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+}
+
+section .name h1{
+    font-size: 60px;
+}
+
+section .name h5{
+    font-size: 20px;
+}
+
+#about{
+    max-width: 60%;
+
+    margin: 0 auto;
+}
+
+.form{
+    width: 40%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.form label{
+    width: 25%;
+    padding: 1%;
+
+}
+
+.form input{
+    width: 50%;
+    padding: 1%;
+}
+
+.form button{
+    width: 25%;
+    padding: 1%;
+}
+
+.title p{
+    width: 50%;
+    margin: 0 auto;
+}

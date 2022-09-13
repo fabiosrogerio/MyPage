@@ -1,0 +1,13 @@
+Lista de definições:
+
+1 - Variável;
+2 - Linguagem de marcação;
+3 - Linguagem de estilização;
+4 - Linguagem de programação;
+5 - HTML (Em inglês e em português);
+6 - CSS (Em inglês e em português);
+7 - Tag;
+8 - Responsividade;
+9 - Mobile first;
+10 - Designer responsivo;
+11 - Desenvolvedor junior.
